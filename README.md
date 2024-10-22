@@ -23,4 +23,4 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 
-# teste de api para recebimento de imagems e criacao de datalake na raiz do projeto para salvar essas imagens
+# image upload api test
